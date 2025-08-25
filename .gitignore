@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Dataset folder (space-safe)
+AegisVision Dataset/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Checkpoints & logs
+checkpoints/
+*.log
+
+*.npy
